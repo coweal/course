@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Thank you!
-parent: Community 101. The essentials one needs to know before launching a community
+title: Thank you
+parent: Getting off the ground. Reaching the critical mass
 ---
 
 ## Thank you for taking the time to study the course. I hope you enjoyed it!

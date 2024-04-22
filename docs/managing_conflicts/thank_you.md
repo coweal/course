@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thank you!
-parent: Community 101. The essentials one needs to know before launching a community
+parent: Managing conflicts in online communities
 ---
 
 ## Thank you for taking the time to study the course. I hope you enjoyed it!
