@@ -8,12 +8,6 @@ nav_order: 1
 # The three most important parameters. The mission, the tools and social norms
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 An online community is a product in itself. Community manager’s goal is to make sure that it provides enough value to the end users regardless of any third-party factors. The value that people get from participating in an online community usually lies outside the physical world. These are a sense of belonging, feeling of unity, the pleasure of being able to share ideas with the same minded people who appreciate it, etc. If one wants to create a successful community, they first need to focus on maximizing these values.
 
 From the product perspective an online community can be characterized by the three most important parameters: the mission, tools and social norms.
