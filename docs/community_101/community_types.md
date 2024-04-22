@@ -2,6 +2,7 @@
 layout: default
 title: Topic and relationship communities
 parent: community-101
+nav_order: 3
 ---
 
 # Topic and relationship communities

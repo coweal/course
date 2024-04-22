@@ -2,6 +2,7 @@
 layout: default
 title: What community means and what a community manager does
 parent: community-101
+nav_order: 1
 ---
 
 # What community means and what a community manager does

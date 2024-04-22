@@ -2,6 +2,7 @@
 layout: default
 title: Community mission, type of motivators and sense of belonging
 parent: community-101
+nav_order: 4
 ---
 
 # Community mission, type of motivators and sense of belonging

@@ -2,6 +2,7 @@
 layout: default
 title: Community life cycle and member life cycle
 parent: community-101
+nav_order: 2
 ---
 
 # Community life cycle and member life cycle
@@ -11,7 +12,7 @@ parent: community-101
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+{:toc}``
 
 ## Community life cycle
 
