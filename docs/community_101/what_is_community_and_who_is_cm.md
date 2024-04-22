@@ -10,6 +10,9 @@ parent: community-101
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ## What does a community mean? 
 
 By definition a community is a group of people who interact with one another in the same environment. To narrow it down to the internet use case, we define an online community as a group of people connected by a shared goal, an interest or a purpose and communicating with each other.

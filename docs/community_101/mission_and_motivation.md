@@ -10,6 +10,9 @@ parent: community-101
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ## Community mission, goals and antagonist
 
 In the nutshell, a community is a way to solve some social problem that is otherwise difficult or impossible to solve. The mission of a community is a short description of a proposed solution to that problem. The mission explains “what” a community does and “why” people should join it. People who are concerned with the social problem being solved and who believe that the proposed solution (the mission) is the best approach to solve it will join the community.

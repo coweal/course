@@ -10,6 +10,9 @@ parent: community-101
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ## Two primary types of online communities: topic-based and relationship-based communities
 
 There are two primary intrinsic motivations that make people participate in an online community: their own interest in the topic of a community and the people who are already part of a community. Even though both forces help us to keep users in a community, all communities use only one of these two motivations as their primary unifying force. It defines what the users should expect to get from the community and how a community manager should work with the group.

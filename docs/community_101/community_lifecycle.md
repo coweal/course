@@ -10,6 +10,9 @@ parent: community-101
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
+
 ## Community life cycle
 
 Community, as a group of people, has its own lifecycle. In theory developed by Bruce Tuckman any group goes through four stages: forming, storming, norming and performing. In case of online communities we can say that there are four similar periods of a community life cycle: 
