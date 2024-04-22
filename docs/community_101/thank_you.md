@@ -5,9 +5,9 @@ parent: Community 101. The essentials one needs to know before launching a commu
 nav_order: 5
 ---
 
-Thank you for taking the time to study the course. I hope you enjoyed it!
+### Thank you for taking the time to study the course. I hope you enjoyed it!
 
-If you like the course, please do share the link to the course with everyone who might benefit from it. If you think there's anything I can do better, please let me know on the community forum practical-cm.com](https://practical-cm.com/).
+If you like the course, please do share the link to the course with everyone who might benefit from it. If you think there's anything I can do better, please let me know on the community forum [practical-cm.com](https://practical-cm.com/).
 
 I took sabbatical for almost a year to write this course. If you enjoyed the course and would like to say thank you, please do a wire transfer to my PayPal account.
 
