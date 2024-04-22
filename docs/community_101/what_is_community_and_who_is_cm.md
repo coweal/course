@@ -1,7 +1,7 @@
 ---
 layout: default
 title: What community means and what a community manager does
-parent: community_101
+parent: community-101
 ---
 
 # What community means and what a community manager does

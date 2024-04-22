@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Topic and relationship communities
-parent: community_101
+parent: community-101
 ---
 
 # Topic and relationship communities

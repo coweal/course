@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community mission, type of motivators and sense of belonging
-parent: community_101
+parent: community-101
 ---
 
 # Community mission, type of motivators and sense of belonging

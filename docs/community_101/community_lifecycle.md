@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community life cycle and member life cycle
-parent: community_101
+parent: community-101
 ---
 
 # Community life cycle and member life cycle
