@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community life cycle and member life cycle
-parent: community-101
+parent: Community 101. The essentials one needs to know before launching a community
 nav_order: 2
 ---
 

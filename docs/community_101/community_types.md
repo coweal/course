@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Topic and relationship communities
-parent: community-101
+parent: Community 101. The essentials one needs to know before launching a community
 nav_order: 3
 ---
 
