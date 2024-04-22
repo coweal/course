@@ -12,6 +12,8 @@ permalink: introduction
 ## Table of contents
 {: .no_toc .text-delta }
 
+1. TOC
+{:toc}
 
 ## Who is this course for?
 
