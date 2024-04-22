@@ -11,7 +11,7 @@ If you like the course, please do share the link to the course with everyone who
 
 ## Please consider to donate to the author of the course
 
-I took sabbatical for almost a year to write this course. If you enjoyed the course and would like to say thank you, please do a wire transfer to my PayPal account [paypal.me/chabanovsky](https://paypal.me/chabanovsky).
+I took sabbatical for almost a year to write this course. If you enjoyed the course and appreciate my efforts, please thank me by a transfer to my PayPal account [paypal.me/chabanovsky](https://paypal.me/chabanovsky).
 
 <script src="https://www.paypal.com/sdk/js?client-id=BAAg-nJ6hfif8p4lxJo2izxJL0dSW1xAvFpCR9IIB10gWZTUUfdYi3oRBQWfUm4BKdYTXGTMwYyhH-3eE8&components=hosted-buttons&disable-funding=venmo&currency=EUR"></script>
 <div id="paypal-container-DXP3A24DBF7GW"></div>
