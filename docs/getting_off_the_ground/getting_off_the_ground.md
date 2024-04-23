@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting off the ground. Reaching the critical mass
-nav_order: 5
+nav_order: 4
 has_children: true
 permalink: course/getting-of-the-ground
 ---

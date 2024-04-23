@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Community 101. The essentials one needs to know before launching a community
-nav_order: 3
+nav_order: 2
 has_children: true
 permalink: course/community-101
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Scaling. Grow your community
-nav_order: 6
+nav_order: 5
 has_children: true
 permalink: course/scaling
 ---
