@@ -7,7 +7,7 @@ permalink: about
 
 # About the author
 
-<img src="/assets/images/author.png" alt="drawing" style="width:400px;"/> 
+<img src="/assets/images/author.jpeg" alt="drawing" style="width:400px;"/> 
 
 Hi! My name is Nicolas Chabanovsky. I am glad to see you here! I am an engineer, serial entrepreneur and online community expert with more than a decade experience in building and growing online communities, developing software to host them and measuring the health of the whole.
 
