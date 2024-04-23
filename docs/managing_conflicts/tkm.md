@@ -18,7 +18,7 @@ Different people behave differently in stressful situations like a conflict. Peo
 
 ## The Thomas-Kilmann Model
 
-![The Thomas-Kilmann Model]()
+<img src="/assets/images/tkm.png" alt="The Thomas-Kilmann Model"/> 
 
 Thomas–Kilmann Conflict Model provides a set of behavioral strategies that people use in conflict situations. The model is assumes that there are two primary styles of behavior during a conflict:
 

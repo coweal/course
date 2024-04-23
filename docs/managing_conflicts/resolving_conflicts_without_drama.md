@@ -37,7 +37,7 @@ It is important to understand that the above myths are not real. While people ca
 
 Dr. Stephen Karpman developed an idea that drama is a collective activity that is based on three defined behavior roles: persecutor, victim and rescuer. These roles form the drama triangle. Each role complements the others: victim needs persecutor or rescuer, without persecutor and their victim there is no one for the rescuer to save. When we think of what to do or to say in a particular situation, we choose from behavioral patterns that we experienced in the past. Thus, sometimes when we try to help other users, we unconsciously take the missing role and become part of the issue instead of being a solution. Please note that the role we take is almost fully determined by the others’ behaviors.
 
-![Drama triangle]()
+<img src="/assets/images/drama_triangle.png" alt="Drama triangle"/> 
 
 ### Persecutor
 
@@ -92,7 +92,7 @@ Persistence is about delivering everything you have promised and asking others f
 
 The compassion cycle aims to create a trusting environment where we can understand the true motives of all the users involved, then all together find a good strategy that consists of particular steps, convey personal responsibility for a resolution of the conflict to each user and finally, again together, work to resolve the problem.
 
-![The compassion cycle]()
+<img src="/assets/images/compassion_cycle.png" alt="The compassion cycle"/> 
 
 At every step of the compassion cycle, we need to achieve a certain objective, set a foundation for the next step and then actually move. The moment we stop moving or turn into the opposite direction, we risk falling into drama. Here is the cycle.
 
