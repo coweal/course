@@ -7,7 +7,7 @@ permalink: about
 
 # About the author
 
-## Chief Editor at Practical CM and Founder of Stack Overflow in Russian (hashcode.ru)
+<img src="/assets/images/author.png" alt="drawing" style="width:400px;"/> 
 
 Engineer, serial entrepreneur and online community expert with more than a decade experience in building and growing online communities, developing software to host them and measuring the health of the whole.
 
@@ -30,11 +30,11 @@ Since 2020 he has focused on designing health metrics for Stack Overflow and Sta
 
 {: .lh-tight }
 
-# Community Strategy, Analysis and Research
+## Community Strategy, Analysis and Research
 
-Wanna create something from nothing or improve your existing product? I will be glad to help answer questions about your product hypothesis and build the optimal strategy for implementing your ideas. 
+Wanna create something from nothing or improve your existing product? I will be glad to help answer questions about your product hypothesis and build the optimal go to market strategy. 
 
-# Contact me
+## Contact me
 
 - Email: [nicolas.chabanovsky@gmail.com](mailto:nicolas.chabanovsky@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolas-chabanovsky-61266074/)
