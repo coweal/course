@@ -2,14 +2,12 @@
 layout: default
 title: Practical Community Management
 nav_order: 1
-description: "Practical, deep and damn short self-paced course on community management"
+description: "Launch and Grow Online Communities Like a Pro"
 permalink: /
 ---
 
-# Introduction to the course
+# Practical Community Management. Launch and Grow Online Communities Like a Pro
 {: .no_toc }
-
-## [About the project](/about-practical-cm) | [About the author](/about-author) 
 
 ## Table of contents
 {: .no_toc .text-delta }
