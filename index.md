@@ -6,7 +6,7 @@ description: "Launch and Grow Online Communities Like a Pro"
 permalink: /
 ---
 
-# Practical Community Management. Launch and Grow Online Communities Like a Pro
+# Launch and Grow Online Communities Like a Pro
 {: .no_toc }
 
 ## Table of contents
