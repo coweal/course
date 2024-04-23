@@ -32,7 +32,7 @@ Since 2020 I have focused on designing health metrics for Stack Overflow and Sta
 
 # Nowadays: Community Strategy, Analysis and Research
 
-If you want to create something from nothing or improve your existing product I will be glad to help answer questions about your product hypothesis and build the optimal go to market strategy. Please feel free to contact me.
+If you want to create something from nothing or improve your existing product I will be glad to help answer questions about your product hypothesis and build the optimal go-to-market strategy. Please feel free to contact me.
 
 - Email: [nicolas.chabanovsky@gmail.com](mailto:nicolas.chabanovsky@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nicolas-chabanovsky-61266074/)
