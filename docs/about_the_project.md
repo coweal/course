@@ -5,6 +5,8 @@ nav_order: 8
 permalink: about-practical-cm
 ---
 
+# About Practical Community Management
+
 Hi! I am glad to see you here. My name is Nicolas. I am the founder of Stack Overflow In Russian (ХэшКод / hashcode.ru) and former Stack Overflow employee ([read more about me](/about-author)).
 
 During my time at Stack Overflow, I was lucky enough to meet a lot of amazingly wise people who taught me a lot. Unfortunately, we, humans, are designed in such a way that we lose what we don’t use. Knowledge is no exception. When I left Stack Overflow, my first thought was "It would be a disaster if I lose the knowledge I learned from the team. I must structure everything I know and share it with the world." So I took a one year break and put down on paper everything I could remember. I'm excited to share with you what I've come up with - the Practical Community Management project.

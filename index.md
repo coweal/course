@@ -9,6 +9,8 @@ permalink: /
 # Launch and Grow Online Communities Like a Pro
 {: .no_toc }
 
+<img src="/assets/images/practical_cm_intro.png" alt="Practical Community Management. Introduction"/> 
+
 ## Table of contents
 {: .no_toc .text-delta }
 
