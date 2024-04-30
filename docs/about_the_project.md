@@ -15,7 +15,7 @@ Practical Community Management consists of three key components:
 
 1. *[Text course](/)* (this website).
 2. *[Video course on Udemy](https://www.udemy.com/user/nicolas-chabanovsky/)*.
-3. *[Book on Amazon](/)*
+3. *[Book on Amazon](https://www.amazon.com/dp/B0D2VDMWDW)*
 
 In terms of knowledge about online community management, the text course, the Udemy course, and the book have the same content, but there are small nuances.
 
@@ -23,7 +23,7 @@ The basis of the project is the [text course](/). It is practical, deep and damn
 
 For those who like to consume knowledge in video format, I created a [course on Udemy](https://www.udemy.com/user/nicolas-chabanovsky/). It is based on the first four sections of the text course plus I added quizzes on top of that. The video course is distributed for a small fee (please note that Udemy manages the price of the course dynamically on its own, I do not manage it). 
 
-The text course consists of knowledge in a concentrated form. I have tried to bring this knowledge to life through the context in which I learnt it. The result is a book on Amazon, "[Practical Community Management: Lessons Learned While Working on Stack Overflow](/)" (ebook and paperback). In the book I tell the story of how I created hashcode.ru, grew it to the point when the community was acquired by Stack Overflow and what I did after the acquisition to make it the most popular Q&A site for Russian speaking developers. At the end of the book, I share my perspective on why Stack Overflow is losing its relevance. I think the stories are interesting and the book is easy to read.
+The text course consists of knowledge in a concentrated form. I have tried to bring this knowledge to life through the context in which I learnt it. The result is a book on Amazon, "[Practical Community Management: Lessons Learned While Working on Stack Overflow](https://www.amazon.com/dp/B0D2VDMWDW)" (ebook and paperback). In the book I tell the story of how I created hashcode.ru, grew it to the point when the community was acquired by Stack Overflow and what I did after the acquisition to make it the most popular Q&A site for Russian speaking developers. At the end of the book, I share my perspective on why Stack Overflow is losing its relevance. I think the stories are interesting and the book is easy to read.
 
 Please select the format that suits you best and enjoy it!
 
