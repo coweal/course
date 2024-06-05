@@ -10,5 +10,5 @@ favicon_ico: "/assets/images/practical_cm_favicon.ico"
 
 ga_tracking: G-0XWR07SBQR
 
-plugins:
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-sitemap
