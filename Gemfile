@@ -8,4 +8,4 @@ gem "just-the-docs", "0.8.2" # pinned to the current release
 
 gem 'jekyll-sitemap'
 
-gem 'google-protobuf'
+gem "google-protobuf", "4.27.1"
