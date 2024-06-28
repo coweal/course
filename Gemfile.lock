@@ -79,6 +79,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  google-protobuf
   jekyll (~> 4.3.3)
   jekyll-sitemap
   just-the-docs (= 0.8.2)
